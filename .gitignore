@@ -1,0 +1,3 @@
+*.exe
+*.dv
+/src/view/terminal
